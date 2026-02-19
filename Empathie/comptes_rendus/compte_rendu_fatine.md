@@ -12,6 +12,7 @@
     -   Choisir le **nombre de questions** dans le QCM
     -   Définir le **nombre de réponses** possibles par question
 
+    
 ------------------------------------------------------------------------
 
 ## 2. Fonctionnalités attendues
