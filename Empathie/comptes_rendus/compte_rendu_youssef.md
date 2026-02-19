@@ -1,4 +1,4 @@
-# Compte Rendu -- Remarques de Ostad Youssef
+# Compte Rendu de Formateur Youssef
 
 ## 1. Organisation des QSM
 
