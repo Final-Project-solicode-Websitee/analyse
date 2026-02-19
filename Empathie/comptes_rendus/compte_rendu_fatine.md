@@ -11,7 +11,6 @@
     -   Définition de la ou des **bonnes réponses**
     -   Choisir le **nombre de questions** dans le QCM
     -   Définir le **nombre de réponses** possibles par question
-
     
 ------------------------------------------------------------------------
 
