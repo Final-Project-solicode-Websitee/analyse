@@ -11,6 +11,7 @@ Après la phase d’empathie menée avec les formateurs **Youssef** et **Fatine*
 - Absence d’un calcul automatique détaillé des scores par objectif.
 - Difficulté de suivi clair des résultats des étudiants.
 ## Problématique centrale 
-### Ainsi, le problème principal peut être formulé comme suit :
 
-Comment concevoir une application de gestion des QCM permettant aux formateurs de créer, organiser et gérer des QCM par session et par objectif, tout en assurant un calcul automatique des résultats et un suivi pédagogique structuré ?
+- Comment pourrions-nous permettre aux formateurs de générer des QCM par objectif en quelques clics, tout en garantissant une correction instantanée pour l'étudiant ?
+
+- Comment pourrions-nous structurer l'interface pour que la liaison entre une question, un professeur et un objectif de session soit totalement transparente ?
